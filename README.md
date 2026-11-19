@@ -127,18 +127,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### ⏱️ Анализ временных рядов и сигналов
-
-![Prophet](https://img.shields.io/badge/Prophet-0077B5?style=flat-square)
-![sktime](https://img.shields.io/badge/sktime-4051B5?style=flat-square)
-![Darts](https://img.shields.io/badge/Darts-6A5ACD?style=flat-square)
-![tsfresh](https://img.shields.io/badge/tsfresh-008080?style=flat-square)
-![PyWavelets](https://img.shields.io/badge/PyWavelets-607D8B?style=flat-square)
-![PyTorch Forecasting](https://img.shields.io/badge/PyTorch%20Forecasting-EE4C2C?style=flat-square)
 
 ### ⚙️ MLOps и контейнеризация
 
@@ -147,6 +137,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
