@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Maksimus1987/Maksimus1987/main/assets/banner.png" width="100%" alt="Баннер профиля">
-
 # Максим Баканов
 
 **Ученый · Инженер · Исследователь искусственного интеллекта**
