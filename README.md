@@ -37,7 +37,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![GNU Octave](https://img.shields.io/badge/GNU%20Octave-0790C0?style=flat-square&logo=octave&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
@@ -56,20 +55,14 @@
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white)
-![Dask](https://img.shields.io/badge/Dask-FDA061?style=flat-square&logo=dask&logoColor=white)
-![Xarray](https://img.shields.io/badge/Xarray-0066CC?style=flat-square)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4051B5?style=flat-square)
-![JAX](https://img.shields.io/badge/JAX-9B59B6?style=flat-square)
-![CuPy](https://img.shields.io/badge/CuPy-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 ### 📈 Статистика и математическое моделирование
 
 ![PyMC](https://img.shields.io/badge/PyMC-2E8B57?style=flat-square)
 ![ArviZ](https://img.shields.io/badge/ArviZ-4051B5?style=flat-square)
-![Pingouin](https://img.shields.io/badge/Pingouin-607D8B?style=flat-square)
 ![Lifelines](https://img.shields.io/badge/Lifelines-546E7A?style=flat-square)
 ![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-3776AB?style=flat-square)
@@ -98,7 +91,6 @@
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 
 ### 👁️ Компьютерное зрение и обработка изображений
 
@@ -112,23 +104,16 @@
 ### 🌐 Интерактивная аналитика и приложения
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=plotly&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
-![Panel](https://img.shields.io/badge/Panel-0096D6?style=flat-square)
-![Voilà](https://img.shields.io/badge/Voilà-5B8C5A?style=flat-square)
-![Shiny](https://img.shields.io/badge/Shiny-007BC2?style=flat-square&logo=shiny&logoColor=white)
 
 ### 🗄️ Базы данных и технологии Big Data
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### ⚙️ MLOps и контейнеризация
 
